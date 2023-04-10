@@ -19,7 +19,7 @@ I like to play badminton, ping pong, and play both well. Besides, I'm also good 
 
 
 <p  align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=armingli.armingli" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=armingli.armingli" alt="visitor badge"/>
 </p>
 
 </p>

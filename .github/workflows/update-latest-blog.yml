@@ -15,7 +15,7 @@ jobs:
       - uses: armingli/readme-update-actions@v1.1.0
         with:
           max_post: 5
-          feed_list: "https://blog.metaprogramming.space/rss.xml"
+          rss_list: "https://blog.metaprogramming.space/rss.xml"
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"

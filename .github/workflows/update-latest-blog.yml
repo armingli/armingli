@@ -1,5 +1,6 @@
 name: Update Readme Latest Blog
 on:
+  workflow_dispatch:
   schedule:
     # Runs every 2 hour
     - cron: "0 */2 * * *"

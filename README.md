@@ -12,6 +12,8 @@ I like to play badminton, ping pong, and play both well. Besides, I'm also good 
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode之2sum,3sum,4sum](https://blog.metaprogramming.space/post/2.html)
+- [利用github的Discussions写博客](https://blog.metaprogramming.space/post/1.html)
 <!-- BLOG-POST-LIST:END -->
 
 

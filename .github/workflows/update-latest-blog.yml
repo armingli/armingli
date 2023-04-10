@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: armingli/readme-update-actions@v1.1.0
+      - uses: armingli/readme-update-actions@v1.1.1
         with:
           max_post: 5
           rss_list: "https://blog.metaprogramming.space/rss.xml"

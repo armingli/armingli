@@ -12,11 +12,11 @@ I like to play badminton, ping pong, and play both well. Besides, I'm also good 
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [GORM时区设置](https://blog.metaprogramming.space/post/13.html)
 - [2023.4.[16-22].Week17](https://blog.metaprogramming.space/post/12.html)
 - [Trojan 和 Nginx 共用 443 端口](https://blog.metaprogramming.space/post/11.html)
 - [Go中database,sql转Model的背后原理](https://blog.metaprogramming.space)
 - [基于Discussions的博客搭建优化](https://blog.metaprogramming.space/post/9.html)
-- [实现微服务中的定时任务](https://blog.metaprogramming.space)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -12,11 +12,11 @@ I like to play badminton, ping pong, and play both well. Besides, I'm also good 
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ Move Semantics](https://blog.metaprogramming.space/post/17.html)
 - [C++ Constructors](https://blog.metaprogramming.space/post/16.html)
 - [Smart Pointers](https://blog.metaprogramming.space/post/15.html)
 - [Essential C++](https://blog.metaprogramming.space/post/14.html)
 - [GORM时区设置](https://blog.metaprogramming.space/post/13.html)
-- [2023.4.[16-22].Week17](https://blog.metaprogramming.space/post/12.html)
 <!-- BLOG-POST-LIST:END -->
 
 
